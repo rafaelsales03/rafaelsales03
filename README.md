@@ -16,12 +16,21 @@
 ##
 
 <br>
-<b>Meu Linkedin</b>
+<b>Meu Linkedin:</b>
 <br>
 <br>
 <img src='https://static-00.iconduck.com/assets.00/linkedin-icon-256x256-6yqakm7l.png' alt='logo-linkedin' width='30px' href='https://www.linkedin.com/in/rafael-sales3/' target='_blank'>
 
-##
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <div>
   
   <a href="https://github.com/rafaelsales03">
@@ -30,5 +39,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsales03&layout=compact&langs_count=16&theme=dracula"/>
 
 </div>
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='30px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='30px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30px'/>
 
 
