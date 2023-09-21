@@ -16,11 +16,12 @@
 ##
 
 <br>
-<b>Meu Linkedin:</b>
+<b>My Linkedin:</b>
 <br>
 <br>
-<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-256x256-6yqakm7l.png' alt='logo-linkedin' width='30px' href='https://www.linkedin.com/in/rafael-sales3/' target='_blank'>
-
+<a href='https://www.linkedin.com/in/rafael-sales3/' target='_blank'>
+<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-256x256-6yqakm7l.png' alt='logo-linkedin' width='30px' > 
+</a>
 
 <br>
 <br>
