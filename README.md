@@ -7,7 +7,7 @@
 
 ##
 
-<p align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up%20Light%20Skin%20Tone.png" alt="Thumbs Up Light Skin Tone" width="25" height="25" /> Hello, I’m Rafael, I’m 20 years old and I’m an enthusiast of technology and programming, especially in web development. My focus is to create customized solutions, such as systems and applications, that improve user life and solve problems effectively. I have experience in optimized projects to ensure the best possible user experience. I am always looking for evolution in my career and I am currently studying Full Stack Development in DevClub. I am constantly seeking new opportunities to hone my skills, eager to meet exciting challenges and expand my knowledge in this ever-growing area.</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up%20Light%20Skin%20Tone.png" alt="Thumbs Up Light Skin Tone" width="25" height="25" /> Hello, I’m Rafael, I’m 22 years old and I’m an enthusiast of technology and programming, especially in web development. My focus is to create customized solutions, such as systems and applications, that improve user life and solve problems effectively. I have experience in optimized projects to ensure the best possible user experience. I am always looking for evolution in my career and I am currently studying Full Stack Development in DevClub. I am constantly seeking new opportunities to hone my skills, eager to meet exciting challenges and expand my knowledge in this ever-growing area.</p>
 
 ###
 
